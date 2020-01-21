@@ -1,0 +1,9 @@
+/* Liferay overrides */
+.chart-header label {
+    display: inline
+}
+
+.aui .container-fluid {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
